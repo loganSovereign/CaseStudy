@@ -1,6 +1,6 @@
 [
 	{
-		PROID: "BR01X01"
+		PROID: "BR01X01",
 		PNAME: "Yamaha Supermoto Brake Line Clamp",
 		GNAME: "BR01X01_Black_large.jpg",
 		COST: "21",
@@ -11,7 +11,7 @@
 		BRAND: "BERADPRODUCTS"
 	},
 	{
-		PROID: "BR01X02"
+		PROID: "BR01X02",
 		PNAME: "The Cube",
 		GNAME: "BR01X02_Red_large.jpg",
 		COST: "21",
@@ -22,7 +22,7 @@
 		BRAND: "BERADPRODUCTS"
 	},
 	{
-		PROID: "BR01X03"
+		PROID: "BR01X03",
 		PNAME: "Clutch Lever Bottle Opener",
 		GNAME: "BR01X03_Blue_large.jpg",
 		COST: "26",
@@ -33,7 +33,7 @@
 		BRAND: "BERADPRODUCTS"
 	},
 	{
-		PROID: "BR01X04"
+		PROID: "BR01X04",
 		PNAME: "YZ/WR Front Brake Resevoir Cap",
 		GNAME: "BR01X04_black_large.jpg",
 		COST: "24",
@@ -44,7 +44,7 @@
 		BRAND: "BERADPRODUCTS"
 	},
 	{
-		PROID: "BR01X05"
+		PROID: "BR01X05",
 		PNAME: "YZ/WR Rear Brake Resevoir Cap",
 		GNAME: "BR01X05_red_large.jpg",
 		COST: "17",
@@ -55,7 +55,7 @@
 		BRAND: "BERADPRODUCTS"
 	},
 	{
-		PROID: "W901X01"
+		PROID: "W901X01",
 		PNAME: "Warp 9 Oversized Foot Pegs",
 		GNAME: "W901X01_blue-footpegs.jpg",
 		COST: "78",
@@ -66,7 +66,7 @@
 		BRAND: "WARP9RACING"
 	},
 	{
-		PROID: "W901X02"
+		PROID: "W901X02",
 		PNAME: "Warp 9 Exhaust Slider",
 		GNAME: "W901X02_exhaust-sliders.jpg",
 		COST: "28",
@@ -77,7 +77,7 @@
 		BRAND: "WARP9RACING"
 	},
 	{
-		PROID: "W901X03"
+		PROID: "W901X03",
 		PNAME: "Warp 9 Axle Sliders",
 		GNAME: "W901X03_slider-set-blue.jpg",
 		COST: "48",
@@ -88,7 +88,7 @@
 		BRAND: "WARP9RACING"
 	},
 	{
-		PROID: "W901X04"
+		PROID: "W901X04",
 		PNAME: "Warp 9 Supermoto Footpeg Slider",
 		GNAME: "W901X04_slider-set-blue.jpg",
 		COST: "15",
@@ -99,7 +99,7 @@
 		BRAND: "WARP9RACING"
 	},
 	{
-		PROID: "W901X05"
+		PROID: "W901X05",
 		PNAME: "Warp 9 Supermoto Tubeless Wheels",
 		GNAME: "W901X05_sm-tubeless-orange-black.jpg",
 		COST: "900",
@@ -110,7 +110,7 @@
 		BRAND: "WARP9RACING"
 	},
 	{
-		PROID: "TK01X01"
+		PROID: "TK01X01",
 		PNAME: "Front Brake Carbon Air Guide",
 		GNAME: "TK01X01_Front_Brake_Carbon_Air.jpg",
 		COST: "133",
@@ -121,7 +121,7 @@
 		BRAND: "TEKMORACING"
 	},
 	{
-		PROID: "TK01X02"
+		PROID: "TK01X02",
 		PNAME: "Tekmo Racing Supermoto Swingarm",
 		GNAME: "TK01X02_Swing_Arm.jpg",
 		COST: "2065",
@@ -132,7 +132,7 @@
 		BRAND: "TEKMORACING"
 	},
 	{
-		PROID: "TK01X03"
+		PROID: "TK01X03",
 		PNAME: "KTM / Husqvarna 1/4 turn tank cap cover",
 		GNAME: "TK01X03_Tank_Cap_Cover.jpg",
 		COST: "57",
@@ -143,7 +143,7 @@
 		BRAND: "TEKMORACING"
 	},
 	{
-		PROID: "TK01X04"
+		PROID: "TK01X04",
 		PNAME: "Husqvarna fuel tank cover",
 		GNAME: "TK01X04_Tank_Cover.jpg",
 		COST: "88",
@@ -154,7 +154,7 @@
 		BRAND: "TEKMORACING"
 	},
 	{
-		PROID: "TK01X05"
+		PROID: "TK01X05",
 		PNAME: "Husqvarna / KTM Exhaust Header",
 		GNAME: "TK01X05_Exhaust_Header.jpg",
 		COST: "413",
