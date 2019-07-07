@@ -1,0 +1,167 @@
+[
+	{
+		PROID: "BR01X01"
+		PNAME: "Yamaha Supermoto Brake Line Clamp",
+		GNAME: "BR01X01_Black_large.jpg",
+		COST: "21",
+		MSRP: "30",
+		QTYHAND: "6",
+		QTYBO: "0",
+		DESC: "6061 billet aluminum clamp that helps re-route the brake line for a supermoto conversion. Anodized in either blue, red or black. Includes all necessary mounting hardware. Fits WR450F, YZ450F, YZ250F, YZ250, YZ250X, WR250F, WR250X, WR250R and more! Ask if you are unsure and we will tell you if it fits.",
+		BRAND: "BERADPRODUCTS"
+	},
+	{
+		PROID: "BR01X02"
+		PNAME: "The Cube",
+		GNAME: "BR01X02_Red_large.jpg",
+		COST: "21",
+		MSRP: "30",
+		QTYHAND: "10",
+		QTYBO: "0",
+		DESC: "This 1.4 inch width/length/height billet 6061 aluminum cube with 9 through holes on every side is mesmerizing to look at! The ultimate trinket for any fidgeter or collector of cool and unique objects. Not only does it feel good in your hands and look incredible as the light reflects off of it at every angle imaginable, it's made here in Michigan with a precision 4th axis live tooling CNC lathe. Put two opposing corners between your fingers and give it a spin! Watch one being made here: Making 'THE CUBE' Fidgeter, Pencil Holder, Spinner, Makeup Brush Holder, Scratcher, Pet Scratcher, Rearview Mirror Ornament, Keychain, Desk Toy, Paper Weight, Visual Stimulator, Collectable Item. IMPORTANT: Not for small children. They can get their fingers stuck in the holes which may cause injury. Do not drop on hard surfaces as it may damage the anodizing or dent the metal.",
+		BRAND: "BERADPRODUCTS"
+	},
+	{
+		PROID: "BR01X03"
+		PNAME: "Clutch Lever Bottle Opener",
+		GNAME: "BR01X03_Blue_large.jpg",
+		COST: "26",
+		MSRP: "38",
+		QTYHAND: "4",
+		QTYBO: "0",
+		DESC: "Billet 6061 Aluminum precision machined to match the shape and feel of motorcycle clutch/brake levers. Bottle opener includes a pocket on each side for tightening and loosening GoPro mounts. A perfect item for any motorcycle or ATV enthusiast. Order this very unique bottle opener today for yourself or a friend! **Not for use as an actual clutch lever**",
+		BRAND: "BERADPRODUCTS"
+	},
+	{
+		PROID: "BR01X04"
+		PNAME: "YZ/WR Front Brake Resevoir Cap",
+		GNAME: "BR01X04_black_large.jpg",
+		COST: "24",
+		MSRP: "34",
+		QTYHAND: "0",
+		QTYBO: "2",
+		DESC: "The most stylish front brake reservoir cap on the market! CNC machined billet 6061 aluminum anodized in your choice of blue, red, green, black, or the limited edition blackout version. Fitment: YZ80 (2001), YZ85 (2002+), YZ125 (2001-2007), YZ125 (2008+), YZ250 (2001-2007), YZ250 (2008+), YZ250X (2016+), YZ250F (2001-2006), YZ250F (2007+), YZ250FX (2015+), YZ426F, YZ450F (2003-2007), YZ450F (2008+), YZ450FX (2016+), WR250F (2001-2016), WR250F (2017+), WR426F, WR450F (2003-2015), WR450F (2016+) OEM#: 5XC-25852-G0-00, 5MV-25852-01-00",
+		BRAND: "BERADPRODUCTS"
+	},
+	{
+		PROID: "BR01X05"
+		PNAME: "YZ/WR Rear Brake Resevoir Cap",
+		GNAME: "BR01X05_red_large.jpg",
+		COST: "17",
+		MSRP: "25",
+		QTYHAND: "2",
+		QTYBO: "0",
+		DESC: "The most stylish rear brake reservoir cap on the market! CNC machined billet 6061 aluminum anodized in your choice of blue, red, or black. Fitment: YZ125 (2003+), YZ250 (2003+), YZ250X (2016+), YZ250F (2003+), YZ250FX (2015+), YZ450F (2003+), YZ450FX (2016+), WR250F (2003+), WR250R/X (2008+), WR450F (2003+), XT250 (2008+) OEM# 5UN-25852-50-00",
+		BRAND: "BERADPRODUCTS"
+	},
+	{
+		PROID: "W901X01"
+		PNAME: "Warp 9 Oversized Foot Pegs",
+		GNAME: "W901X01_blue-footpegs.jpg",
+		COST: "78",
+		MSRP: "130",
+		QTYHAND: "3",
+		QTYBO: "0",
+		DESC: "Light weight 6065 T6 aluminum Extra Wide platform Exclusive “X” bridge adds 2 center teeth for added grip Footpeg Size is 57mm Wide and 75mm long Permanent Stainless steel teeth",
+		BRAND: "WARP9RACING"
+	},
+	{
+		PROID: "W901X02"
+		PNAME: "Warp 9 Exhaust Slider",
+		GNAME: "W901X02_exhaust-sliders.jpg",
+		COST: "28",
+		MSRP: "46",
+		QTYHAND: "22",
+		QTYBO: "0",
+		DESC: "Protect your exhaust from the pavement with Warp 9’s universal exhaust sliders Fits both oval and hexagon cans Universal mount design Stainless Steel clamp Formed Viton High temp rubber protects exhaust Available in 7 colors to match your bike",
+		BRAND: "WARP9RACING"
+	},
+	{
+		PROID: "W901X03"
+		PNAME: "Warp 9 Axle Sliders",
+		GNAME: "W901X03_slider-set-blue.jpg",
+		COST: "48",
+		MSRP: "80",
+		QTYHAND: "0",
+		QTYBO: "1",
+		DESC: "Front Sliders: Aluminum nut and backing plate available in anodized colors Integrated track stand grooves machined into the slider spools Stainless steel solid rod with stainless nut will nut rust like all thread of lesser designs Replaceable spools are machined from UHMW-PE for its excellent low drag and high wear compared to Delrin of lesser brands Rear sliders: Integrated rear axle adjuster blocks make these a clean install and a solid mount for the slider spools Blocks are laser etched with chain alignment marks for easy alignment. Blocks are available in anodized colors Replaceable Spools are machined from UHMW-PE for its excellent low drag and high wear compared to Delrin of lesser brands and mounted to the blocks with stainless hardware",
+		BRAND: "WARP9RACING"
+	},
+	{
+		PROID: "W901X04"
+		PNAME: "Warp 9 Supermoto Footpeg Slider",
+		GNAME: "W901X04_slider-set-blue.jpg",
+		COST: "15",
+		MSRP: "25",
+		QTYHAND: "8",
+		QTYBO: "0",
+		DESC: "Mounts to Warp 9 MX and adventure pegs These Supermoto sliders are made from UHMW-PE (ultra-high-molecular-weight-polyethylene). Kit includes 2 bar mounts and 2 Sliders This material has a very low friction and good abrasion resistance so it will take multiple crashes, Not designed for OEM pegs",
+		BRAND: "WARP9RACING"
+	},
+	{
+		PROID: "W901X05"
+		PNAME: "Warp 9 Supermoto Tubeless Wheels",
+		GNAME: "W901X05_sm-tubeless-orange-black.jpg",
+		COST: "900",
+		MSRP: "2250",
+		QTYHAND: "0",
+		QTYBO: "0",
+		DESC: "WHEELS ARE MACHINED FORGED ALUMINUM HUBS CAN BE CHANGED OUT TO FUTURE BIKE CHANGES OR JUST DIFFERENT COLORS COMES COMPLETE WITH: WARP 9 FRONT SUPERMOTO MACHINED WHEEL FRONT OVERSIZED FLOATING 320MM ROTOR AND BRACKET WARP 9 REAR SUPERMOTO MACHINED WHEEL CUSH REAR HUB APEX REAR ROTOR SPROCKET Includes a color matching (to the hub) 90 degree valve stems Rear hub is Cush drive and includes 6 Cush drive rubbers All rotors and sprockets bolt patterns are oem spec. Tubeless design offers further weight savings and complexity over spoke wheels Front wheel without rotor is 10lbs 2 oz Rear wheel Cush drive no rotor or sprocket is 15lbs Rear wheel direct drive no rotor or sprocket is 14lbs",
+		BRAND: "WARP9RACING"
+	},
+	{
+		PROID: "TK01X01"
+		PNAME: "Front Brake Carbon Air Guide",
+		GNAME: "TK01X01_Front_Brake_Carbon_Air.jpg",
+		COST: "133",
+		MSRP: "190",
+		QTYHAND: "2",
+		QTYBO: "0",
+		DESC: "Forced air for Husqvarna fs 450 front brake made of carbon fiber and kevlar Weight: 70 grams",
+		BRAND: "TEKMORACING"
+	},
+	{
+		PROID: "TK01X02"
+		PNAME: "Tekmo Racing Supermoto Swingarm",
+		GNAME: "TK01X02_Swing_Arm.jpg",
+		COST: "2065",
+		MSRP: "2950",
+		QTYHAND: "0",
+		QTYBO: "1",
+		DESC: "Swingarm for Supermotard. Develop with professional pilots including Lewis Cornish and Simon Vilhelmsen. Increases the stiffness of your bike a lot and has a shorter wheelbase than the original arm. For experienced pilots. Fit: KTM 450 sxf 2014-2018 Husqvarna FS 450 2015-2018 Weight: 4.6 kilo",
+		BRAND: "TEKMORACING"
+	},
+	{
+		PROID: "TK01X03"
+		PNAME: "KTM / Husqvarna 1/4 turn tank cap cover",
+		GNAME: "TK01X03_Tank_Cap_Cover.jpg",
+		COST: "57",
+		MSRP: "82",
+		QTYHAND: "3",
+		QTYBO: "0",
+		DESC: "Tank cap cover made of carbon fiber. Attaches with silicone glue. Fit: KTM and Husqvarna with cap model (quarter turn) Weight: 6.5g",
+		BRAND: "TEKMORACING"
+	},
+	{
+		PROID: "TK01X04"
+		PNAME: "Husqvarna fuel tank cover",
+		GNAME: "TK01X04_Tank_Cover.jpg",
+		COST: "88",
+		MSRP: "126",
+		QTYHAND: "1",
+		QTYBO: "0",
+		DESC: "Gas tank cover made of carbon fiber. No need for attachment, simply remove the seat, install the parts and reinstall the seat. Fit: Husqvarna 2017 and more enduro models. Weight: 40grams",
+		BRAND: "TEKMORACING"
+	},
+	{
+		PROID: "TK01X05"
+		PNAME: "Husqvarna / KTM Exhaust Header",
+		GNAME: "TK01X05_Exhaust_Header.jpg",
+		COST: "413",
+		MSRP: "590",
+		QTYHAND: "0",
+		QTYBO: "4",
+		DESC: "Tekmoracing Motorcycle Titanium exhaust Header. Gives large performance gains and HP gain. Fit: Husqvarna 701 2016+ KTM 690 2010-2018",
+		BRAND: "TEKMORACING"
+	},
+]
