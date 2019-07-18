@@ -1,8 +1,8 @@
 [
 	{
-		"PROID": "BR01X01",
+		"PROID": "0101",
 		"PNAME": "Yamaha Supermoto Brake Line Clamp",
-		"GNAME": "BR01X01_Black_large.jpg",
+		"GNAME": "BR01X01_Black_large.png",
 		"COST": "21.0",
 		"MSRP": "30.0",
 		"QTYHAND": "6",
@@ -11,9 +11,9 @@
 		"BRAND": "BERADPRODUCTS"
 	},
 	{
-		"PROID": "BR01X02",
+		"PROID": "0102",
 		"PNAME": "The Cube",
-		"GNAME": "BR01X02_Red_large.jpg",
+		"GNAME": "BR01X02_Red_large.png",
 		"COST": "21.0",
 		"MSRP": "30.0",
 		"QTYHAND": "10",
@@ -22,9 +22,9 @@
 		"BRAND": "BERADPRODUCTS"
 	},
 	{
-		"PROID": "BR01X03",
+		"PROID": "0103",
 		"PNAME": "Clutch Lever Bottle Opener",
-		"GNAME": "BR01X03_Blue_large.jpg",
+		"GNAME": "BR01X03_Blue_large.png",
 		"COST": "26",
 		"MSRP": "38",
 		"QTYHAND": "4",
@@ -33,9 +33,9 @@
 		"BRAND": "BERADPRODUCTS"
 	},
 	{
-		"PROID": "BR01X04",
+		"PROID": "0104",
 		"PNAME": "YZ/WR Front Brake Resevoir Cap",
-		"GNAME": "BR01X04_black_large.jpg",
+		"GNAME": "BR01X04_black_large.png",
 		"COST": "24.0",
 		"MSRP": "34.0",
 		"QTYHAND": "0",
@@ -44,9 +44,9 @@
 		"BRAND": "BERADPRODUCTS"
 	},
 	{
-		"PROID": "BR01X05",
+		"PROID": "0105",
 		"PNAME": "YZ/WR Rear Brake Resevoir Cap",
-		"GNAME": "BR01X05_red_large.jpg",
+		"GNAME": "BR01X05_red_large.png",
 		"COST": "17.0",
 		"MSRP": "25.0",
 		"QTYHAND": "2",
@@ -55,9 +55,9 @@
 		"BRAND": "BERADPRODUCTS"
 	},
 	{
-		"PROID": "W901X01",
+		"PROID": "0201",
 		"PNAME": "Warp 9 Oversized Foot Pegs",
-		"GNAME": "W901X01_blue-footpegs.jpg",
+		"GNAME": "W901X01_blue-footpegs.png",
 		"COST": "78.0",
 		"MSRP": "130.0",
 		"QTYHAND": "3",
@@ -66,9 +66,9 @@
 		"BRAND": "WARP9RACING"
 	},
 	{
-		"PROID": "W901X02",
+		"PROID": "0202",
 		"PNAME": "Warp 9 Exhaust Slider",
-		"GNAME": "W901X02_exhaust-sliders.jpg",
+		"GNAME": "W901X02_exhaust-sliders.png",
 		"COST": "28.0",
 		"MSRP": "46.0",
 		"QTYHAND": "22",
@@ -77,9 +77,9 @@
 		"BRAND": "WARP9RACING"
 	},
 	{
-		"PROID": "W901X03",
+		"PROID": "0203",
 		"PNAME": "Warp 9 Axle Sliders",
-		"GNAME": "W901X03_slider-set-blue.jpg",
+		"GNAME": "W901X03_slider-set-blue.png",
 		"COST": "48.0",
 		"MSRP": "80.0",
 		"QTYHAND": "0",
@@ -88,9 +88,9 @@
 		"BRAND": "WARP9RACING"
 	},
 	{
-		"PROID": "W901X04",
+		"PROID": "0204",
 		"PNAME": "Warp 9 Supermoto Footpeg Slider",
-		"GNAME": "W901X04_slider-set-blue.jpg",
+		"GNAME": "W901X04_slider-set-blue.png",
 		"COST": "15.0",
 		"MSRP": "25.0",
 		"QTYHAND": "8",
@@ -99,9 +99,9 @@
 		"BRAND": "WARP9RACING"
 	},
 	{
-		"PROID": "W901X05",
+		"PROID": "0205",
 		"PNAME": "Warp 9 Supermoto Tubeless Wheels",
-		"GNAME": "W901X05_sm-tubeless-orange-black.jpg",
+		"GNAME": "W901X05_sm-tubeless-orange-black.png",
 		"COST": "900.0",
 		"MSRP": "2250.0",
 		"QTYHAND": "0",
@@ -110,9 +110,9 @@
 		"BRAND": "WARP9RACING"
 	},
 	{
-		"PROID": "TK01X01",
+		"PROID": "0301",
 		"PNAME": "Front Brake Carbon Air Guide",
-		"GNAME": "TK01X01_Front_Brake_Carbon_Air.jpg",
+		"GNAME": "TK01X01_Front_Brake_Carbon_Air.png",
 		"COST": "133.0",
 		"MSRP": "190.0",
 		"QTYHAND": "2",
@@ -121,9 +121,9 @@
 		"BRAND": "TEKMORACING"
 	},
 	{
-		"PROID": "TK01X02",
+		"PROID": "0302",
 		"PNAME": "Tekmo Racing Supermoto Swingarm",
-		"GNAME": "TK01X02_Swing_Arm.jpg",
+		"GNAME": "TK01X02_Swing_Arm.png",
 		"COST": "2065.0",
 		"MSRP": "2950.0",
 		"QTYHAND": "0",
@@ -132,9 +132,9 @@
 		"BRAND": "TEKMORACING"
 	},
 	{
-		"PROID": "TK01X03",
+		"PROID": "0303",
 		"PNAME": "KTM / Husqvarna 1/4 turn tank cap cover",
-		"GNAME": "TK01X03_Tank_Cap_Cover.jpg",
+		"GNAME": "TK01X03_Tank_Cap_Cover.png",
 		"COST": "57.0",
 		"MSRP": "82.0",
 		"QTYHAND": "3",
@@ -143,9 +143,9 @@
 		"BRAND": "TEKMORACING"
 	},
 	{
-		"PROID": "TK01X04",
+		"PROID": "0304",
 		"PNAME": "Husqvarna fuel tank cover",
-		"GNAME": "TK01X04_Tank_Cover.jpg",
+		"GNAME": "TK01X04_Tank_Cover.png",
 		"COST": "88.0",
 		"MSRP": "126.0",
 		"QTYHAND": "1",
@@ -154,9 +154,9 @@
 		"BRAND": "TEKMORACING"
 	},
 	{
-		"PROID": "TK01X05",
+		"PROID": "0305",
 		"PNAME": "Husqvarna / KTM Exhaust Header",
-		"GNAME": "TK01X05_Exhaust_Header.jpg",
+		"GNAME": "TK01X05_Exhaust_Header.png",
 		"COST": "413.0",
 		"MSRP": "590.0",
 		"QTYHAND": "0",
