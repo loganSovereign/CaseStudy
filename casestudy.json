@@ -57,7 +57,7 @@
 	{
 		"PROID": "0201",
 		"PNAME": "Warp 9 Oversized Foot Pegs",
-		"GNAME": "W901X01_blue-footpegs.png",
+		"GNAME": "W901X01_Black-Footpegs.png",
 		"COST": "78.0",
 		"MSRP": "130.0",
 		"QTYHAND": "3",
@@ -90,7 +90,7 @@
 	{
 		"PROID": "0204",
 		"PNAME": "Warp 9 Supermoto Footpeg Slider",
-		"GNAME": "W901X04_slider-set-blue.png",
+		"GNAME": "W901X04_footpeg-slider1.png",
 		"COST": "15.0",
 		"MSRP": "25.0",
 		"QTYHAND": "8",
